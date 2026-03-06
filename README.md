@@ -74,25 +74,54 @@ I am a **Passionate Full-Stack MERN Developer** who enjoys transforming complex 
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" colspan="2">
+
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
 
+</td>
+
+<td align="center">
+
 **Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
 
 **Deployment & Tools**
 
 <img src="https://skillicons.dev/icons?i=vercel,netlify,render,git,github,vscode,postman,npm&theme=dark" />
 
-<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
 
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hridoy-ii&langs_count=8&layout=compact&theme=github_dark&border_color=30363d&border_radius=10" />
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
